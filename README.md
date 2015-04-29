@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Notification Messages
 =====================
 This module modifies the messages that gets sent out to users to their inboxes.
@@ -231,3 +232,7 @@ See excel spreadsheet for all notification messages and the modules that contain
 28. request to join closed group
 29. group administrative adds user to their closed group
 30. user gets accepted to closed group request
+=======
+# Notification-Messages
+Christine Yu
+>>>>>>> 2a52a261e558290f23539486e3fcc3dce7559fd0
